@@ -1,0 +1,18 @@
+
+.container{
+    margin-bottom: 80px;
+}
+.carousel-bg{
+    background-color: #FEEAE9;
+    border-radius: 5px;
+}
+.text-highlight{
+    color: #E91E6A;
+}
+.btn-color{
+    background-color: #E91E6A;
+    color: white;
+}
+.carousel-items-scale{
+    padding: 20px 40px;
+}
