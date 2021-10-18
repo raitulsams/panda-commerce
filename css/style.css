@@ -43,3 +43,12 @@ border-radius: 10px;
     border: none;
     box-shadow: 5px 3px 10px lightgrey;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+.text-center{
+    padding-top: 20px;
+}
